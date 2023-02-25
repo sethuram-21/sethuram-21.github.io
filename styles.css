@@ -1,0 +1,42 @@
+h1{
+    color: red;
+    font-size: 64px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    color:rgb(1, 189, 252);
+}
+li{
+    color: white;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background:#1f242d;
+    color: white;
+}
+
+.landing{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 100vh;
+    font-size: 32px;
+    
+}
+.myprojects{
+    display: flex;
+    border-width: 15px;
+}
+.project{
+    margin-left: 10px;
+    border-radius: 20px;
+    list-style: none;
+    width: 90px;
+    height: 80px;
+    margin: 15px;
+    padding: 5px;
+    background-color: rgb(76, 187, 12);
+        
+}
